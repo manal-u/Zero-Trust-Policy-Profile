@@ -38,5 +38,6 @@ If all signals meet policy, the Policy Engine returns an allow decision and can 
 
 Project: Lab 6 - Zero Trust Policy  
 Filename: ZT-Policy-Profile.md  
-Commit Message: Add Zero Trust policy profile for HR PII database
+Commit Message: Lab 03: Add Zero Trust policy profile for HR PII database - https://github.com/manal-u/Zero-Trust-Policy-Profile/commit/19c5cfa3d21276f29fa33028ed41fe54471c2386
+
 Due Date: March 2, 2026
